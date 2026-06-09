@@ -16,23 +16,33 @@
 |------|------|------|-----------|
 | SAGPL-3.0 | [copyleft/sagpl/SAGPL-3.0.md](./copyleft/sagpl/SAGPL-3.0.md) | ★★★★★ | 终极版：事前披露、企业全覆盖、审计、硬件披露、罚金、自我保护 |
 | SAGPL-2.0 | [copyleft/sagpl/SAGPL-2.0.md](./copyleft/sagpl/SAGPL-2.0.md) | ★★★★★ | 极度强化的 AGPL，实时源码披露，无补救期 |
+| FECL-1.0 | [copyleft/FECL-1.0.md](./copyleft/FECL-1.0.md) | ★★★★★ | Fork 强制：所有分支必须向上游合并，禁止私有分支 |
+| ICL-1.0 | [copyleft/ICL-1.0.md](./copyleft/ICL-1.0.md) | ★★★★★ | 不可撤销：一旦分发，权限永久不可终止 |
+| RTCL-1.0 | [copyleft/RTCL-1.0.md](./copyleft/RTCL-1.0.md) | ★★★★★ | 实时 Copyleft：每笔交易/API 调用实时触发源码公开 |
+| TOCL-1.0 | [copyleft/TOCL-1.0.md](./copyleft/TOCL-1.0.md) | ★★★★★ | 全栈 Copyleft：使用本软件的整个技术栈必须全部开源 |
 | SAGPL-1.0 | [copyleft/sagpl/SAGPL-1.0.md](./copyleft/sagpl/SAGPL-1.0.md) | ★★★★☆ | SAGPL 前身，有补救期和系统库例外 |
 | SAGPL-Data | [copyleft/sagpl/SAGPL-Data.md](./copyleft/sagpl/SAGPL-Data.md) | ★★★★☆ | 数据集/ML 专用版 |
+| AECL-1.0 | [copyleft/AECL-1.0.md](./copyleft/AECL-1.0.md) | ★★★★☆ | 反嵌入：禁止嵌入闭源系统，无论是否修改 |
 | AGPL-X | [copyleft/AGPL-X.md](./copyleft/AGPL-X.md) | ★★★★☆ | AGPLv3 增强版 |
+| CCPL-1.0 | [copyleft/CCPL-1.0.md](./copyleft/CCPL-1.0.md) | ★★★★☆ | 贡献者 Copyleft：修改须向上游提交 |
+| CHCL-1.0 | [copyleft/CHCL-1.0.md](./copyleft/CHCL-1.0.md) | ★★★★☆ | 链式 Copyleft：衍生作品的衍生也必须保持相同许可 |
+| DDL-1.0 | [copyleft/DDL-1.0.md](./copyleft/DDL-1.0.md) | ★★★★☆ | 部署公开：部署即触发源码公开，不限于网络交互 |
 | GPL-N | [copyleft/GPL-N.md](./copyleft/GPL-N.md) | ★★★★☆ | GPL + 网络交互披露 |
 | HAGPL-1.0 | [copyleft/HAGPL-1.0.md](./copyleft/HAGPL-1.0.md) | ★★★★☆ | 硬件设计专用 AGPL |
+| OMCL-1.0 | [copyleft/OMCL-1.0.md](./copyleft/OMCL-1.0.md) | ★★★★☆ | 修改公开：所有修改必须实时公开发布，禁止私有修改 |
+| PRCL-1.0 | [copyleft/PRCL-1.0.md](./copyleft/PRCL-1.0.md) | ★★★★☆ | 专利互惠：使用即视为同意交叉许可全部专利 |
+| SCCL-1.0 | [copyleft/SCCL-1.0.md](./copyleft/SCCL-1.0.md) | ★★★★☆ | 供应链 Copyleft：供应链所有组件必须开源 |
+| SCPL-1.0 | [copyleft/SCPL-1.0.md](./copyleft/SCPL-1.0.md) | ★★★★☆ | 源码 Copyleft：网络触发源码披露，含库链接例外 |
 | SAGPL-LGPL | [copyleft/sagpl/SAGPL-LGPL.md](./copyleft/sagpl/SAGPL-LGPL.md) | ★★★☆☆ | 库专用版，带链接例外 |
 | SAGPL-Enterprise | [copyleft/sagpl/SAGPL-Enterprise.md](./copyleft/sagpl/SAGPL-Enterprise.md) | ★★★☆☆ | 商业友好双授权版 |
 | CPL-1.0 | [copyleft/CPL-1.0.md](./copyleft/CPL-1.0.md) | ★★★☆☆ | 内容作品 Copyleft |
 | MCPL-1.0 | [copyleft/MCPL-1.0.md](./copyleft/MCPL-1.0.md) | ★★★☆☆ | 医疗软件 Copyleft |
 | LGPL-X | [copyleft/LGPL-X.md](./copyleft/LGPL-X.md) | ★★★☆☆ | 增强版库 copyleft |
 | CDL-1.0 | [copyleft/CDL-1.0.md](./copyleft/CDL-1.0.md) | ★★★☆☆ | 文档许可证 |
+| DCPL-1.0 | [copyleft/DCPL-1.0.md](./copyleft/DCPL-1.0.md) | ★★★☆☆ | 开发 Copyleft：开发期共享，发布后自动转 MIT |
 | MPL-X | [copyleft/MPL-X.md](./copyleft/MPL-X.md) | ★★☆☆☆ | 文件级 copyleft + 网络披露 |
 | RPL-1.0 | [copyleft/RPL-1.0.md](./copyleft/RPL-1.0.md) | ★★☆☆☆ | 专利互惠许可证 |
-| SCPL-1.0 | [copyleft/SCPL-1.0.md](./copyleft/SCPL-1.0.md) | ★★★★☆ | 源码 Copyleft：网络触发源码披露，含库链接例外 |
 | WCPL-1.0 | [copyleft/WCPL-1.0.md](./copyleft/WCPL-1.0.md) | ★★☆☆☆ | 弱 Copyleft：文件级共享，允许链接闭源 |
-| CCPL-1.0 | [copyleft/CCPL-1.0.md](./copyleft/CCPL-1.0.md) | ★★★★☆ | 贡献者 Copyleft：修改须向上游提交 |
-| DCPL-1.0 | [copyleft/DCPL-1.0.md](./copyleft/DCPL-1.0.md) | ★★★☆☆ | 开发 Copyleft：开发期共享，发布后自动转 MIT |
 | EUL-1.0 | [copyleft/EUL-1.0.md](./copyleft/EUL-1.0.md) | 条件式 | 条件式 copyleft |
 
 ### Permissive
