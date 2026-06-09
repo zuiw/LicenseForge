@@ -92,6 +92,7 @@
 | AOL-1.0 | [special/AOL-1.0.md](./special/AOL-1.0.md) | 特殊 | AI 输出许可：AI 生成内容状态声明 |
 | BML-1.0 | [special/BML-1.0.md](./special/BML-1.0.md) | 特殊 | 生物识别医疗：精度披露、跨人群偏差测试、数据保护 |
 | CTAL-1.0 | [special/CTAL-1.0.md](./special/CTAL-1.0.md) | 特殊 | 临床试验：知情同意追踪、数据完整性、不良事件报告 |
+| EASL-1.0 | [special/EASL-1.0.md](./special/EASL-1.0.md) | 特殊 | 嵌入式 AI：量化模型支持、设备端处理、能效披露 |
 | GEPL-1.0 | [special/GEPL-1.0.md](./special/GEPL-1.0.md) | 特殊 | 基因编辑平台：脱靶分析、伦理审查、验证标准 |
 | FAL-1.0 | [special/FAL-1.0.md](./special/FAL-1.0.md) | 特殊 | 公平署名：AI 输出须保留原作者署名 |
 | FTL-1.0 | [special/FTL-1.0.md](./special/FTL-1.0.md) | 特殊 | 微调许可：轻量 Adapter 自由，全量微调须公开 |
@@ -99,6 +100,7 @@
 | MDL-1.0 | [special/MDL-1.0.md](./special/MDL-1.0.md) | 特殊 | AI 模型许可：权重 + 架构 + 推理服务 |
 | MRL-1.0 | [special/MRL-1.0.md](./special/MRL-1.0.md) | 特殊 | 模型注册表许可：模型分发平台 |
 | NATL-1.0 | [special/NATL-1.0.md](./special/NATL-1.0.md) | 特殊 | 禁止 AI 训练许可 |
+| NFL-1.0 | [special/NFL-1.0.md](./special/NFL-1.0.md) | 特殊 | 神经网络框架：模型可复现、架构文档、训练溯源 |
 | QTL-1.0 | [special/QTL-1.0.md](./special/QTL-1.0.md) | 特殊 | 量化许可：量化模型可分发，须提供文档 |
 | RAGL-1.0 | [special/RAGL-1.0.md](./special/RAGL-1.0.md) | 特殊 | RAG 许可：检索增强生成管道 |
 | SDL-1.0 | [special/SDL-1.0.md](./special/SDL-1.0.md) | 特殊 | 合成数据许可：AI 生成数据专用 |
@@ -153,6 +155,9 @@
 | DMKL-1.0 | [special/DMKL-1.0.md](./special/DMKL-1.0.md) | 特殊 | 数据市场：透明定价、质量分级、溯源验证 |
 | DPL-1.0 | [special/DPL-1.0.md](./special/DPL-1.0.md) | 特殊 | 数据可移植性：标准化导出、批量传输、服务间迁移 |
 | DTCL-1.0 | [special/DTCL-1.0.md](./special/DTCL-1.0.md) | 特殊 | 数据信托：受托责任、受益人同意、利益分配 |
+| BDGL-1.0 | [special/BDGL-1.0.md](./special/BDGL-1.0.md) | 特殊 | 大数据治理：数据溯源追踪、策略访问控制、留存管理 |
+| EDIL-1.0 | [special/EDIL-1.0.md](./special/EDIL-1.0.md) | 特殊 | 边缘设备标识：硬件信任根、生命周期管理、撤销支持 |
+| QCOML-1.0 | [special/QCOML-1.0.md](./special/QCOML-1.0.md) | 特殊 | 量子通信：QKD 协议透明、信道建模、安全参数披露 |
 
 #### 行业专用
 
@@ -210,6 +215,21 @@
 | TOKL-1.0 | [special/TOKL-1.0.md](./special/TOKL-1.0.md) | 特殊 | 代币许可：供应透明、解锁披露、管理控制公开 |
 | UGL-1.0 | [special/UGL-1.0.md](./special/UGL-1.0.md) | 特殊 | 用户生成内容：创作者所有权、审核透明、争议解决 |
 | WML-1.0 | [special/WML-1.0.md](./special/WML-1.0.md) | 特殊 | 数字水印：鲁棒性披露、不可移除性、透明度 |
+| AVL-1.0 | [special/AVL-1.0.md](./special/AVL-1.0.md) | 特殊 | 自动驾驶：安全案例、场景测试、故障安全机制 |
+| CRPL-1.0 | [special/CRPL-1.0.md](./special/CRPL-1.0.md) | 特殊 | 密码学：算法透明、侧信道防护、安全审计披露 |
+| DAGL-1.0 | [special/DAGL-1.0.md](./special/DAGL-1.0.md) | 特殊 | DAG 数据结构：拓扑一致性、冲突解决、收敛保证 |
+| DTAL-1.0 | [special/DTAL-1.0.md](./special/DTAL-1.0.md) | 特殊 | 数字孪生：实时同步、双向数据流、保真度披露 |
+| FPCL-1.0 | [special/FPCL-1.0.md](./special/FPCL-1.0.md) | 特殊 | 函数即服务：冷启动披露、执行隔离、超时保证 |
+| FUSL-1.0 | [special/FUSL-1.0.md](./special/FUSL-1.0.md) | 特殊 | 聚变能研究：实验数据共享、等离子建模透明、安全验证 |
+| HPTL-1.0 | [special/HPTL-1.0.md](./special/HPTL-1.0.md) | 特殊 | 高频交易：延迟披露、防市场操纵、紧急熔断 |
+| MOCL-1.0 | [special/MOCL-1.0.md](./special/MOCL-1.0.md) | 特殊 | 移动计算：离线能力、电池感知、平台访问透明 |
+| NANOL-1.0 | [special/NANOL-1.0.md](./special/NANOL-1.0.md) | 特殊 | 纳米技术：参数披露、可复现性、安全协议 |
+| RENL-1.0 | [special/RENL-1.0.md](./special/RENL-1.0.md) | 特殊 | 可再生能源：并网标准、功率预测透明、需求响应 |
+| OCNL-1.0 | [special/OCNL-1.0.md](./special/OCNL-1.0.md) | 特殊 | 海洋保护：海洋数据共享、生态影响披露、污染监测 |
+| SPCEL-1.0 | [special/SPCEL-1.0.md](./special/SPCEL-1.0.md) | 特殊 | 太空探索：轨道碎片减缓、行星保护、遥测透明 |
+| SRDL-1.0 | [special/SRDL-1.0.md](./special/SRDL-1.0.md) | 特殊 | 软件无线电：频谱合规、频率披露、干扰缓解 |
+| VPL-1.0 | [special/VPL-1.0.md](./special/VPL-1.0.md) | 特殊 | 虚拟制作：实时渲染、摄影机追踪、色彩管线 |
+| WEAL-1.0 | [special/WEAL-1.0.md](./special/WEAL-1.0.md) | 特殊 | WebAssembly：沙箱完整性、能力安全、跨平台兼容 |
 
 #### 治理与合规
 
