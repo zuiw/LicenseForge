@@ -1,4 +1,4 @@
-# Open Source Licenses
+# LicenseForge
 
 原创开源许可证合集。这是一个持续扩充的仓库，按法律特性分类收录自编的开源许可证。
 
