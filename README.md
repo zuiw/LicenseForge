@@ -20,6 +20,7 @@
 | ICL-1.0 | [copyleft/ICL-1.0.md](./copyleft/ICL-1.0.md) | ★★★★★ | 不可撤销：一旦分发，权限永久不可终止 |
 | RTCL-1.0 | [copyleft/RTCL-1.0.md](./copyleft/RTCL-1.0.md) | ★★★★★ | 实时 Copyleft：每笔交易/API 调用实时触发源码公开 |
 | TOCL-1.0 | [copyleft/TOCL-1.0.md](./copyleft/TOCL-1.0.md) | ★★★★★ | 全栈 Copyleft：使用本软件的整个技术栈必须全部开源 |
+| CACL-1.0 | [copyleft/CACL-1.0.md](./copyleft/CACL-1.0.md) | ★★★★★ | 级联 Copyleft：义务无条件向下游传递，无恢复机制 |
 | SAGPL-1.0 | [copyleft/sagpl/SAGPL-1.0.md](./copyleft/sagpl/SAGPL-1.0.md) | ★★★★☆ | SAGPL 前身，有补救期和系统库例外 |
 | SAGPL-Data | [copyleft/sagpl/SAGPL-Data.md](./copyleft/sagpl/SAGPL-Data.md) | ★★★★☆ | 数据集/ML 专用版 |
 | AECL-1.0 | [copyleft/AECL-1.0.md](./copyleft/AECL-1.0.md) | ★★★★☆ | 反嵌入：禁止嵌入闭源系统，无论是否修改 |
@@ -39,6 +40,11 @@
 | SCPL-1.0 | [copyleft/SCPL-1.0.md](./copyleft/SCPL-1.0.md) | ★★★★☆ | 源码 Copyleft：网络触发源码披露，含库链接例外 |
 | SIGL-1.0 | [copyleft/SIGL-1.0.md](./copyleft/SIGL-1.0.md) | ★★★★☆ | 签名 Copyleft：分发须经开发者签名验证 |
 | TROL-1.0 | [copyleft/TROL-1.0.md](./copyleft/TROL-1.0.md) | ★★★★☆ | 可信重建 Copyleft：可复现构建 + 源码分发 |
+| BRCL-1.0 | [copyleft/BRCL-1.0.md](./copyleft/BRCL-1.0.md) | ★★★★☆ | 广播 Copyleft：广播/流媒体触发源码披露 |
+| DETL-1.0 | [copyleft/DETL-1.0.md](./copyleft/DETL-1.0.md) | ★★★★☆ | 检测 Copyleft：自动化检测触发 copyleft 义务 |
+| ENFCL-1.0 | [copyleft/ENFCL-1.0.md](./copyleft/ENFCL-1.0.md) | ★★★★☆ | 可执行 Copyleft：指定仲裁和执行条款 |
+| EXCL-1.0 | [copyleft/EXCL-1.0.md](./copyleft/EXCL-1.0.md) | ★★★★☆ | 独家改进：所有改进必须独家贡献给上游项目 |
+| HYCL-1.0 | [copyleft/HYCL-1.0.md](./copyleft/HYCL-1.0.md) | ★★★★☆ | 混合 Copyleft：不同组件可指定不同 copyleft 强度 |
 | SAGPL-LGPL | [copyleft/sagpl/SAGPL-LGPL.md](./copyleft/sagpl/SAGPL-LGPL.md) | ★★★☆☆ | 库专用版，带链接例外 |
 | SAGPL-Enterprise | [copyleft/sagpl/SAGPL-Enterprise.md](./copyleft/sagpl/SAGPL-Enterprise.md) | ★★★☆☆ | 商业友好双授权版 |
 | CPL-1.0 | [copyleft/CPL-1.0.md](./copyleft/CPL-1.0.md) | ★★★☆☆ | 内容作品 Copyleft |
@@ -52,6 +58,10 @@
 | DCPL-1.0 | [copyleft/DCPL-1.0.md](./copyleft/DCPL-1.0.md) | ★★★☆☆ | 开发 Copyleft：开发期共享，发布后自动转 MIT |
 | THRL-1.0 | [copyleft/THRL-1.0.md](./copyleft/THRL-1.0.md) | ★★★☆☆ | 阈值 Copyleft：修改超 30% 才触发披露 |
 | TIMEL-1.0 | [copyleft/TIMEL-1.0.md](./copyleft/TIMEL-1.0.md) | ★★★☆☆ | 定时 Copyleft：指定日期后自动转为 MIT |
+| EMCL-1.0 | [copyleft/EMCL-1.0.md](./copyleft/EMCL-1.0.md) | ★★★☆☆ | 嵌入式 Copyleft：嵌入式系统，含固件/引导例外 |
+| FLCL-1.0 | [copyleft/FLCL-1.0.md](./copyleft/FLCL-1.0.md) | ★★★☆☆ | 容错 Copyleft：120 天补救期，自动恢复权利 |
+| INCL-1.0 | [copyleft/INCL-1.0.md](./copyleft/INCL-1.0.md) | ★★★☆☆ | 包容性 Copyleft：内置贡献者协议和治理条款 |
+| SACL-1.0 | [copyleft/SACL-1.0.md](./copyleft/SACL-1.0.md) | ★★★☆☆ | 安全区域 Copyleft：仅在无软件专利的司法管辖区生效 |
 | MPL-X | [copyleft/MPL-X.md](./copyleft/MPL-X.md) | ★★☆☆☆ | 文件级 copyleft + 网络披露 |
 | RPL-1.0 | [copyleft/RPL-1.0.md](./copyleft/RPL-1.0.md) | ★★☆☆☆ | 专利互惠许可证 |
 | WCPL-1.0 | [copyleft/WCPL-1.0.md](./copyleft/WCPL-1.0.md) | ★★☆☆☆ | 弱 Copyleft：文件级共享，允许链接闭源 |
@@ -81,6 +91,15 @@
 | XPL-1.0 | [permissive/XPL-1.0.md](./permissive/XPL-1.0.md) | ☆☆☆☆☆ | 极致宽松，放弃所有权利 |
 | ZAL-1.0 | [permissive/ZAL-1.0.md](./permissive/ZAL-1.0.md) | ☆☆☆☆☆ | 零署名要求，明确不要求致谢 |
 | MTL-1.0 | [permissive/MTL-1.0.md](./permissive/MTL-1.0.md) | ☆☆☆☆☆ | 最小信任许可：无条件使用，仅保留免责声明 |
+| EOL-1.0 | [permissive/EOL-1.0.md](./permissive/EOL-1.0.md) | ☆☆☆☆☆ | 一切开放许可：允许一切，无任何限制 |
+| GOL-1.0 | [permissive/GOL-1.0.md](./permissive/GOL-1.0.md) | ☆☆☆☆☆ | 慷慨开放许可：慷慨授予，自由使用 |
+| JOL-1.0 | [permissive/JOL-1.0.md](./permissive/JOL-1.0.md) | ☆☆☆☆☆ | 愉悦许可：鼓励在使用时保持愉快心情 |
+| KISS-1.0 | [permissive/KISS-1.0.md](./permissive/KISS-1.0.md) | ☆☆☆☆☆ | 极简许可：许可已授予，就是这样 |
+| NOL-1.0 | [permissive/NOL-1.0.md](./permissive/NOL-1.0.md) | ☆☆☆☆☆ | 无义务许可：使用本软件无需承担任何义务 |
+| OAL-1.0 | [permissive/OAL-1.0.md](./permissive/OAL-1.0.md) | ☆☆☆☆☆ | 开放访问许可：人人自由访问，无障碍 |
+| ONEL-1.0 | [permissive/ONEL-1.0.md](./permissive/ONEL-1.0.md) | ☆☆☆☆☆ | 一行许可：任何人都可以对此软件做任何事 |
+| PENL-1.0 | [permissive/PENL-1.0.md](./permissive/PENL-1.0.md) | ☆☆☆☆☆ | 纯粹享受许可：为创作和分享的纯粹乐趣 |
+| WOL-1.0 | [permissive/WOL-1.0.md](./permissive/WOL-1.0.md) | ☆☆☆☆☆ | 完全开放许可：彻底完全地开放 |
 
 #### 极宽松（MIT 级）
 
@@ -93,6 +112,7 @@
 | CQL-1.0 | [permissive/CQL-1.0.md](./permissive/CQL-1.0.md) | ★☆☆☆☆ | ISC 再简化，一句话说完 |
 | DFL-1.0 | [permissive/DFL-1.0.md](./permissive/DFL-1.0.md) | ★☆☆☆☆ | MIT + 专利保护 |
 | FFL-1.0 | [permissive/FFL-1.0.md](./permissive/FFL-1.0.md) | ★☆☆☆☆ | 公平自由：MIT + 反 Tivoization + 专利不报复 |
+| FREL-1.0 | [permissive/FREL-1.0.md](./permissive/FREL-1.0.md) | ★☆☆☆☆ | 自由再许可：明确授予在任何许可证下再许可的权利 |
 | FRL-1.0 | [permissive/FRL-1.0.md](./permissive/FRL-1.0.md) | ★☆☆☆☆ | 允许在任何许可证下重新分发（含闭源） |
 | IDL-1.0 | [permissive/IDL-1.0.md](./permissive/IDL-1.0.md) | ★☆☆☆☆ | 独立开发许可：组件/库自由使用，衍生才触发 |
 | PAL-4.0 | [permissive/PAL-4.0.md](./permissive/PAL-4.0.md) | ★☆☆☆☆ | 公共保证许可：MIT + 无已知专利声明 |
@@ -141,6 +161,11 @@
 | SDL-1.0 | [special/SDL-1.0.md](./special/SDL-1.0.md) | 特殊 | 合成数据许可：AI 生成数据专用 |
 | SKL-1.0 | [special/SKL-1.0.md](./special/SKL-1.0.md) | 特殊 | AI Skill 许可：插件/工具/知识库 |
 | VML-1.0 | [special/VML-1.0.md](./special/VML-1.0.md) | 特殊 | 向量模型许可：embedding + 向量数据库 |
+| AIDL-1.0 | [special/AIDL-1.0.md](./special/AIDL-1.0.md) | 特殊 | AI 披露许可：AI 生成内容须明确披露 |
+| CVL-1.0 | [special/CVL-1.0.md](./special/CVL-1.0.md) | 特殊 | 计算机视觉：禁止用于大规模监控，要求透明度 |
+| FSTL-1.0 | [special/FSTL-1.0.md](./special/FSTL-1.0.md) | 特殊 | 特征存储许可：ML 特征共享与特征工程平台 |
+| KGL-1.0 | [special/KGL-1.0.md](./special/KGL-1.0.md) | 特殊 | 知识图谱许可：知识图谱与语义网技术 |
+| MOML-1.0 | [special/MOML-1.0.md](./special/MOML-1.0.md) | 特殊 | 模型监控许可：ML 模型性能监测与可观测性 |
 
 #### 伦理与社会
 
@@ -265,6 +290,30 @@
 | SRDL-1.0 | [special/SRDL-1.0.md](./special/SRDL-1.0.md) | 特殊 | 软件无线电：频谱合规、频率披露、干扰缓解 |
 | VPL-1.0 | [special/VPL-1.0.md](./special/VPL-1.0.md) | 特殊 | 虚拟制作：实时渲染、摄影机追踪、色彩管线 |
 | WEAL-1.0 | [special/WEAL-1.0.md](./special/WEAL-1.0.md) | 特殊 | WebAssembly：沙箱完整性、能力安全、跨平台兼容 |
+| ANML-1.0 | [special/ANML-1.0.md](./special/ANML-1.0.md) | 特殊 | 动物监测许可：动物追踪与福利应用 |
+| ARCHL-1.0 | [special/ARCHL-1.0.md](./special/ARCHL-1.0.md) | 特殊 | 建筑设计许可：建筑设计软件与 BIM |
+| BATL-1.0 | [special/BATL-1.0.md](./special/BATL-1.0.md) | 特殊 | 电池管理许可：电池管理系统与储能 |
+| BIOML-1.0 | [special/BIOML-1.0.md](./special/BIOML-1.0.md) | 特殊 | 生物信息学许可：计算生物学与生物信息工具 |
+| CABL-1.0 | [special/CABL-1.0.md](./special/CABL-1.0.md) | 特殊 | 碳核算许可：碳排放测量与气候报告 |
+| CIRCL-1.0 | [special/CIRCL-1.0.md](./special/CIRCL-1.0.md) | 特殊 | 循环经济许可：废物减少与资源优化 |
+| CONSL-1.0 | [special/CONSL-1.0.md](./special/CONSL-1.0.md) | 特殊 | 保护技术许可：野生动物保护与环境监测 |
+| EDGEL-1.0 | [special/EDGEL-1.0.md](./special/EDGEL-1.0.md) | 特殊 | 边缘 AI 许可：边缘计算与边缘 AI 部署 |
+| ESGL-1.0 | [special/ESGL-1.0.md](./special/ESGL-1.0.md) | 特殊 | ESG 报告许可：环境、社会和治理报告 |
+| EVL-1.0 | [special/EVL-1.0.md](./special/EVL-1.0.md) | 特殊 | 电动汽车许可：电动汽车与充电基础设施 |
+| GEOL-1.0 | [special/GEOL-1.0.md](./special/GEOL-1.0.md) | 特殊 | 地理空间许可：GIS 与地理空间数据处理 |
+| HPC-1.0 | [special/HPC-1.0.md](./special/HPC-1.0.md) | 特殊 | 高性能计算许可：并行计算与超算软件 |
+| IIOTL-1.0 | [special/IIOTL-1.0.md](./special/IIOTL-1.0.md) | 特殊 | 工业物联网许可：工业物联网与智能制造 |
+| LOWCL-1.0 | [special/LOWCL-1.0.md](./special/LOWCL-1.0.md) | 特殊 | 低代码平台许可：低代码/无代码开发平台 |
+| NRML-1.0 | [special/NRML-1.0.md](./special/NRML-1.0.md) | 特殊 | 自然资源许可：矿产/林业/水资源管理 |
+| PML-1.0 | [special/PML-1.0.md](./special/PML-1.0.md) | 特殊 | 预测性维护许可：设备健康监测与故障预测 |
+| RPA-1.0 | [special/RPA-1.0.md](./special/RPA-1.0.md) | 特殊 | RPA 许可：机器人流程自动化与工作流自动化 |
+| SATL-1.0 | [special/SATL-1.0.md](./special/SATL-1.0.md) | 特殊 | 卫星图像许可：遥感与地球观测软件 |
+| SBLL-1.0 | [special/SBLL-1.0.md](./special/SBLL-1.0.md) | 特殊 | 智能建筑许可：楼宇自动化与设施管理 |
+| SNL-1.0 | [special/SNL-1.0.md](./special/SNL-1.0.md) | 特殊 | 社交网络分析许可：社交网络与图分析 |
+| SPOL-1.0 | [special/SPOL-1.0.md](./special/SPOL-1.0.md) | 特殊 | 体育科学许可：运动分析与表现追踪 |
+| SUPL-1.0 | [special/SUPL-1.0.md](./special/SUPL-1.0.md) | 特殊 | 供应链许可：供应链管理与物流 |
+| TEXL-1.0 | [special/TEXL-1.0.md](./special/TEXL-1.0.md) | 特殊 | 纺织技术许可：纺织设计与制造软件 |
+| WASTEL-1.0 | [special/WASTEL-1.0.md](./special/WASTEL-1.0.md) | 特殊 | 废物管理许可：废物管理与回收优化 |
 
 #### 前沿科技
 
@@ -294,6 +343,7 @@
 | PHARML-1.0 | [special/PHARML-1.0.md](./special/PHARML-1.0.md) | 特殊 | 计算制药：力场/评分函数透明、验证基准、禁止化武 |
 | PRECL-1.0 | [special/PRECL-1.0.md](./special/PRECL-1.0.md) | 特殊 | 精准农业：算法透明、传感器校准、农民数据主权 |
 | SMARTGL-1.0 | [special/SMARTGL-1.0.md](./special/SMARTGL-1.0.md) | 特殊 | 智能电网：负载均衡透明、需求响应披露 |
+| SYNBIO-1.0 | [special/SYNBIO-1.0.md](./special/SYNBIO-1.0.md) | 特殊 | 合成生物学许可：生物工程与生物 CAD 软件 |
 | V2XL-1.0 | [special/V2XL-1.0.md](./special/V2XL-1.0.md) | 特殊 | 车联网：安全合规、消息格式透明、防碰撞、隐私 |
 
 #### 治理与合规
