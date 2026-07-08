@@ -64,5 +64,21 @@
 | [THRL-1.0](./THRL-1.0.md) | ★★★☆☆ 中等 | 阈值 Copyleft：修改超 30% 才触发披露义务 |
 | [TIMEL-1.0](./TIMEL-1.0.md) | ★★★☆☆ 中等 | 定时 Copyleft：指定日期后自动转为 MIT |
 | [TOCL-1.0](./TOCL-1.0.md) | ★★★★★ 极度 copyleft | 全栈 Copyleft：使用本软件的整个技术栈必须全部开源 |
+| [CRCL-1.0](./CRCL-1.0.md) | ★★★★★ 极度 copyleft | 关键基础设施 Copyleft：关键基础设施软件，须正式验证 |
 | [TROL-1.0](./TROL-1.0.md) | ★★★★☆ 很强 | 可信重建 Copyleft：可复现构建 + 源码分发 |
 | [WCPL-1.0](./WCPL-1.0.md) | ★★☆☆☆ 宽松 | 弱 Copyleft：文件级共享，允许链接闭源 |
+| [AICL-1.0](./AICL-1.0.md) | ★★★★☆ 很强 | AI Copyleft：AI 训练触发披露义务 |
+| [ARCL-1.0](./ARCL-1.0.md) | ★★★☆☆ 中等 | 归档 Copyleft：衍生作品须存入指定公共存档 |
+| [CFCL-1.0](./CFCL-1.0.md) | ★★★☆☆ 中等 | 无冲突 Copyleft：与 GPLv3/AGPLv3/MPL-2.0 兼容 |
+| [CPDL-1.0](./CPDL-1.0.md) | ★★★★☆ 很强 | 公共数据 Copyleft：公共数据须自由共享 |
+| [CRCL-1.0](./CRCL-1.0.md) | ★★★★★ 极度 copyleft | 关键基础设施 Copyleft：关键软件须正式验证 |
+| [DISTL-1.0](./DISTL-1.0.md) | ★★★★☆ 很强 | 分发 Copyleft：分发渠道须公开文档化 |
+| [DNCL-1.0](./DNCL-1.0.md) | ★★★★☆ 很强 | 下游 Copyleft：确保下游使用者获得完整权利 |
+| [DRFCL-1.0](./DRFCL-1.0.md) | ★★☆☆☆ 宽松 | 草稿 Copyleft：仅生产质量代码须源码披露 |
+| [EDCL-1.0](./EDCL-1.0.md) | ★★★☆☆ 中等 | 教育 Copyleft：教育软件须保持开放 |
+| [FICL-1.0](./FICL-1.0.md) | ★★★★☆ 很强 | 坚定 Copyleft：自动审计权 + 合规报告 |
+| [GOVL-1.0](./GOVL-1.0.md) | ★★★☆☆ 中等 | 政府 Copyleft：政府开发须公开源码 |
+| [ISOCL-1.0](./ISOCL-1.0.md) | ★★★★☆ 很强 | 隔离 Copyleft：须在隔离沙箱环境中部署 |
+| [MINL-1.0](./MINL-1.0.md) | ★★☆☆☆ 宽松 | 最小 Copyleft：仅完整复制才须保持相同许可 |
+| [NONCL-1.0](./NONCL-1.0.md) | ★★★☆☆ 中等 | 非营利 Copyleft：慈善组织延长补救期至 180 天 |
+| [PCPL-1.0](./PCPL-1.0.md) | ★★★☆☆ 中等 | 对等 Copyleft：商业使用须社区同意 |
